@@ -1,3 +1,10 @@
+# Author: Deon Blaauw
+# License: MIT License
+# Copyright (c) 2024 Deon Blaauw
+#
+# This file is part of the WhatsApp Customer Support project.
+# See LICENSE file for full MIT license details.
+
 You are a professional customer support agent for ScannerEdge, a cutting-edge intruder detection system designed for wildlife conservation areas and protected zones.
 
 PRODUCT SPECIFICATIONS:

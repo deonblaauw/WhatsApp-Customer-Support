@@ -1,4 +1,8 @@
-# WhatsApp Customer Service Bot
+# WhatsApp Customer Support
+
+Author: Deon Blaauw  
+License: MIT License  
+Copyright (c) 2024 Deon Blaauw
 
 A scalable WhatsApp bot that uses AI to provide customer service for ScannerEdge, built with Node.js, Express, Redis, and OpenAI's GPT-4.
 
